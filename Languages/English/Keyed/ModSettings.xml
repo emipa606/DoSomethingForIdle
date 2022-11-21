@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DSFI_ConfigWanderMultiplier>Wandering Multiplier</DSFI_ConfigWanderMultiplier>
+  <DSFI_TT_ConfigWanderMultiplier>Multiplier for wandering instead of doing something. If you lower it, colonists try more somethings.</DSFI_TT_ConfigWanderMultiplier>
+  <DSFI_SpendingTimeMultiplier>Spending Time Multiplier</DSFI_SpendingTimeMultiplier>
+  <DSFI_TT_SpendingTimeMultiplier>Multiplier for time about to do something. If you lower it, colonists uses more time for idle.
+  If you have a lot of colonist in settlement, it is recommended to raise this option.</DSFI_TT_SpendingTimeMultiplier>
+  <DSFI_ConfigWanderMovePolicy>Wandering Move Style</DSFI_ConfigWanderMovePolicy>
+  <DSFI_ConfigWanderMovePolicy_Walk>Walk</DSFI_ConfigWanderMovePolicy_Walk>
+  <DSFI_ConfigWanderMovePolicy_Run>Run</DSFI_ConfigWanderMovePolicy_Run>
+  <DSFI_ModVersion>Installed mod-version: {0}</DSFI_ModVersion>
+  <DSFI_NoNaps>Dont nap when idle</DSFI_NoNaps>
+  <DSFI_TT_NoNaps>Napping can sometimes block priority-work like doctoring, this option blocks that.</DSFI_TT_NoNaps>
+</LanguageData>
