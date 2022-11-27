@@ -1,5 +1,8 @@
 # Changelog for DoSomethingForIdle
 
+1.4.2 - Pawns can now play with children as an idle activity if Biotech is active
+
+
 1.4.1 - Updated for 1.4.
 Used DeepL to update translations for ChineseSimplified, French, German, Russian
 

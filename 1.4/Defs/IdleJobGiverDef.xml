@@ -178,4 +178,21 @@
     <usefulness>-2</usefulness>
     <requiredOpinion>75</requiredOpinion>
   </DSFI.IdleJobGiverDef_Thinking>
+  <DSFI.IdleJobGiverDef MayRequire="Ludeon.Rimworld.Biotech">
+    <defName>IdleJobGiver_PlayWithChild</defName>
+    <giverClass>DSFI.JobGivers.IdleJobGiver_PlayWithChild</giverClass>
+    <probabilityWeight>7</probabilityWeight>
+    <usefulness>-1</usefulness>
+    <searchDistance>16</searchDistance>
+    <workTagsRequirement>
+      <li>Social</li>
+    </workTagsRequirement>
+    <workTypeRequirement>
+      <li>Childcare</li>
+    </workTypeRequirement>
+    <pawnCapacityRequirement>
+      <li>Consciousness</li>
+      <li>Moving</li>
+    </pawnCapacityRequirement>
+  </DSFI.IdleJobGiverDef>
 </Defs>

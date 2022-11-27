@@ -1,5 +1,6 @@
 # DoSomethingForIdle
 
+
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of gguakes mod
@@ -27,9 +28,6 @@ please careful for your save.
 If you have problem or any good idea, please reply here because this mod is WIP.
 
 Thanks.
-
-
-github: https://github.com/gguake/RWMod-DSFI
 	
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -42,4 +40,4 @@ github: https://github.com/gguake/RWMod-DSFI
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
-
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2891653515]Last updated 2022-11-27

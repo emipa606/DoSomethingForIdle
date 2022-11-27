@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>d2c57380-487b-40b5-ab4b-db61fd170fd7</ID>
   <ModName>Do Something for Idle (Continued)</ModName>
-  <Version>1.4.1</Version>
+  <Version>1.4.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
-
