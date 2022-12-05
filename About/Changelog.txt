@@ -1,5 +1,8 @@
 # Changelog for DoSomethingForIdle
 
+1.4.3 - Last update, added end-of-life message
+
+
 1.4.2 - Pawns can now play with children as an idle activity if Biotech is active
 
 

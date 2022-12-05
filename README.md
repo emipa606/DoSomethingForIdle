@@ -1,14 +1,14 @@
 # DoSomethingForIdle
 
-
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of gguakes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1896806569
 
 - Added a setting to block naps as an idle action
+- Pawns can now play with babies as an idle activity if Biotech is active
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
@@ -39,5 +39,5 @@ Thanks.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2891653515]Last updated 2022-11-27
+[/list
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2891653515]Last updated 2022-12-05
